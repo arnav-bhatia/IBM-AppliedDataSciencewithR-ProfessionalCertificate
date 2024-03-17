@@ -1,6 +1,6 @@
 # Course-1 : Introduction to R Programming for Data Science <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
-Course Link : https://www.coursera.org/learn/introduction-to-data-analytics?specialization=ibm-data-analyst
+Course Link : https://www.coursera.org/learn/introducton-r-programming-data-science?specialization=applied-data-science-r
 
 ## About this Course
 This course is an introduction to R programming for the leaner. It will cover the basics of the language and will move on to slightly more advanced topics in later sections.
