@@ -1,6 +1,6 @@
 # IBM Applied Data Science with R Professional Certificate <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
-Program Link : https://www.coursera.org/professional-certificates/ibm-data-analyst?skipBrowseRedirect=true
+Program Link : https://www.coursera.org/specializations/applied-data-science-r
 
 ## About this Professional Certificate
 The program is designed to equip learners with essential data analytical skills utilizing R. It commences with foundational R concepts, gradually progressing towards the integration of SQL within the R environment. Subsequently, emphasis is placed on refining data science proficiencies through comprehensive instruction in data analysis and visualization using R. The culmination of the program entails a comprehensive final project, encompassing all aspects covered throughout the course.
