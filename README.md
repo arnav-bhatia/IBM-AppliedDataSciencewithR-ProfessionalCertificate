@@ -31,4 +31,5 @@ At the end of the program, the learner will complete a real-world capstone proje
 ---
 
 <p align="center">
-<img src="/IBM_AppliedDataSciencewithR_ProfessionalCertificate.png" >
+<img src="/IBM_AppliedDataScienceWithR_ProfessionalCertificate.png" >
+
